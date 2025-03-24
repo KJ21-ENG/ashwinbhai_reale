@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ashwinbhai_reale/static/css/main.e6c13ad2.css",
+    "main.js": "/ashwinbhai_reale/static/js/main.b7f9aac7.js",
+    "static/js/453.21b730ec.chunk.js": "/ashwinbhai_reale/static/js/453.21b730ec.chunk.js",
+    "index.html": "/ashwinbhai_reale/index.html",
+    "main.e6c13ad2.css.map": "/ashwinbhai_reale/static/css/main.e6c13ad2.css.map",
+    "main.b7f9aac7.js.map": "/ashwinbhai_reale/static/js/main.b7f9aac7.js.map",
+    "453.21b730ec.chunk.js.map": "/ashwinbhai_reale/static/js/453.21b730ec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.b7f9aac7.js"
+  ]
+}
