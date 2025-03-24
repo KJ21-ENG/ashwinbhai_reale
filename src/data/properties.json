@@ -1,0 +1,138 @@
+[
+  {
+    "id": 1,
+    "title": "2 BHK Apartment in Green Meadows",
+    "location": "Ahmedabad, Gujarat",
+    "price": 4500000,
+    "propertyType": "Residential",
+    "size": "1200 sq.ft",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "images": [
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1560185007-cde436f6a4d0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1493809842364-78817add7ffb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80"
+    ],
+    "description": "Spacious 2 BHK apartment near local markets and schools. Features modern amenities and is located in a secure gated community. Perfect for families looking for a quiet neighborhood with excellent connectivity to major parts of the city.",
+    "features": ["Parking", "24/7 Security", "Gym", "Swimming Pool", "Children's Play Area"]
+  },
+  {
+    "id": 2,
+    "title": "Commercial Office Space in Prime Area",
+    "location": "Vadodara, Gujarat",
+    "price": 15000000,
+    "propertyType": "Commercial",
+    "size": "2500 sq.ft",
+    "bedrooms": 0,
+    "bathrooms": 2,
+    "images": [
+      "https://images.unsplash.com/photo-1497366754035-f200968a6e72?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1497366811353-6870744d04b2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1524758631624-e2822e304c36?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80"
+    ],
+    "description": "Ideal commercial space for IT startups, includes a meeting room. Located in the heart of the business district with excellent infrastructure and amenities. The space is designed for optimal productivity with modern facilities.",
+    "features": ["CCTV", "Power Backup", "Elevator", "Reserved Parking", "High-speed Internet"]
+  },
+  {
+    "id": 3,
+    "title": "3 BHK Villa in Luxury Enclave",
+    "location": "Surat, Gujarat",
+    "price": 8500000,
+    "propertyType": "Residential",
+    "size": "2200 sq.ft",
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "images": [
+      "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80"
+    ],
+    "description": "Beautiful 3 BHK villa with a garden and modern architecture. This luxurious property features high ceilings, marble flooring, and premium fittings throughout. Enjoy the private garden space perfect for entertaining guests.",
+    "features": ["Private Garden", "Modular Kitchen", "Air Conditioning", "Premium Fittings", "Servant Room"]
+  },
+  {
+    "id": 4,
+    "title": "Retail Space in Shopping Complex",
+    "location": "Ahmedabad, Gujarat",
+    "price": 25000000,
+    "propertyType": "Commercial",
+    "size": "1800 sq.ft",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "images": [
+      "https://images.unsplash.com/photo-1519074069444-1ba4fff66d16?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1604328698692-f76ea9498e76?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1604999333679-b86d54738315?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80"
+    ],
+    "description": "Prime retail space in a busy shopping complex with high footfall. Perfect for retail businesses looking to establish presence in a prime commercial area with steady customer traffic throughout the week.",
+    "features": ["High Footfall", "Glass Facade", "Storage Area", "24/7 Security"]
+  },
+  {
+    "id": 5,
+    "title": "1 BHK Budget Apartment",
+    "location": "Rajkot, Gujarat",
+    "price": 2200000,
+    "propertyType": "Residential",
+    "size": "650 sq.ft",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "images": [
+      "https://images.unsplash.com/photo-1536376072261-38c75010e6c9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1486304873000-235643847519?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80"
+    ],
+    "description": "Affordable 1 BHK apartment ideal for students or young professionals. Located close to public transportation and educational institutions, this compact apartment offers comfort and convenience at an affordable price point.",
+    "features": ["Furnished", "Water Supply 24/7", "Community Hall", "Near Bus Stand"]
+  },
+  {
+    "id": 6,
+    "title": "4 BHK Luxury Penthouse",
+    "location": "Ahmedabad, Gujarat",
+    "price": 35000000,
+    "propertyType": "Residential",
+    "size": "3500 sq.ft",
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "images": [
+      "https://images.unsplash.com/photo-1613977257592-4871e5fcd7c4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1613977257363-707ba9348227?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80"
+    ],
+    "description": "Exquisite penthouse with panoramic city views and premium amenities. This top-floor luxury residence features a private terrace, Italian marble flooring, and high-end fixtures. Experience unparalleled luxury living with scenic views.",
+    "features": ["Private Terrace", "Home Theater", "Smart Home System", "Italian Marble Flooring", "Double Height Ceiling"]
+  },
+  {
+    "id": 7,
+    "title": "Luxury Apartment with Beach View",
+    "location": "Dwarka, Gujarat",
+    "price": 12800000,
+    "propertyType": "Residential",
+    "size": "1800 sq.ft",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "images": [
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1484154218962-a197022b5858?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1576941089067-2de3c901e126?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80"
+    ],
+    "description": "Stunning beach-view apartment with modern amenities and spacious balcony. Wake up to breathtaking ocean views every morning in this premium waterfront property featuring high-end appliances and designer interiors.",
+    "features": ["Sea View", "Modular Kitchen", "24/7 Security", "Swimming Pool", "Gym"]
+  },
+  {
+    "id": 8,
+    "title": "Industrial Warehouse Space",
+    "location": "Vapi, Gujarat",
+    "price": 19500000,
+    "propertyType": "Commercial",
+    "size": "5000 sq.ft",
+    "bedrooms": 0,
+    "bathrooms": 2,
+    "images": [
+      "https://images.unsplash.com/photo-1553292218-4892c9d44d94?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1566041510639-8d95a2490bfb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1416331108676-a22ccb276e35?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80"
+    ],
+    "description": "Spacious industrial warehouse with loading docks and office space. Ideal for manufacturing or distribution businesses with excellent connectivity to major highways and ports for efficient logistics operations.",
+    "features": ["Loading Docks", "High Ceiling", "CCTV", "Security Guard", "3-Phase Power"]
+  }
+] 
